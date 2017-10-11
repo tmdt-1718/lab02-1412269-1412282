@@ -4,7 +4,7 @@
 
 Thành viên:
 * [x] **1412269** Hà Mạnh Kiệt (1412269)
-* [ ] **MSSV2** Tên sinh viên 2 (tên tài khoản github)
+* [x] **1412282** Nguyễn Hoàng Lân (1412282)
 
 URL: **URL hosting của bài tập**
 
@@ -16,11 +16,11 @@ Yêu cầu **GIT**:
 * [ ] Sử dụng GIT theo [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow).
 
 Yêu cầu **bắt buộc**
-* [ ] Đăng ký tài khoản bằng email, password, và tên.  (**MSSV**)
-* [ ] Đăng nhập bằng email và password. (**MSSV**)
+* [x] Đăng ký tài khoản bằng email, password, và tên.  (**1412282**)
+* [x] Đăng nhập bằng email và password. (**1412282**)
 * [ ] Sau khi đăng nhập, người dùng sẽ được chuyển đến trang liệt kê danh sách các tin nhắn đã nhận, sắp xếp theo thứ tự thời gian, một nút để tạo tin nhắn mới, nút để xem danh sách bạn bè và nút để xem các tin nhắn đã gửi. (**MSSV**)
 * [ ] Tin nhắn chưa đọc phải được làm nổi bật hơn các tin nhắn khác. (**MSSV**)
-* [ ] Nhấn vào nút "xem danh sách bạn" sẽ chuyển người dùng đến trang liệt kê danh sách người dùng cùng với các chức năng thêm bạn. (**MSSV**)
+* [x] Nhấn vào nút "xem danh sách bạn" sẽ chuyển người dùng đến trang liệt kê danh sách người dùng cùng với các chức năng thêm bạn. (**1412282**)
 * [ ] Nhấn nút "tạo tin nhắn" sẽ chuyển sang giao diện cho phép người dùng gửi tin nhắn cho người dùng trong danh sách bạn bè. Người gửi phải nằm trong danh sách bạn bè và cho phép người dùng chọn qua dropdown. (**MSSV**)
 * [ ] Nhấn "xem tin đã gửi" sẽ chuyển sang giao diện hiển thị danh sách tin nhắn đã gửi. Mỗi tin nhắn cần hiện thời gian người nhận đã đọc. (**MSSV**)
 * [ ] Mỗi người dùng chỉ có thể đọc tin nhắn 1 lần duy nhất. (**MSSV**)
@@ -29,7 +29,7 @@ Yêu cầu **bắt buộc**
 Yêu cầu **không bắt buộc**:
 * [ ] Người dùng có thể gửi hình ảnh đính kèm theo thông điệp. (**MSSV**)
 * [ ] Người dùng có thể gửi tin nhắn đến nhiều người dùng cùng lúc. (**MSSV**)
-* [ ] Người dùng có thể đăng nhập với Facebook. (**MSSV**)
+* [x] Người dùng có thể đăng nhập với Facebook. (**MSSV**)
 * [ ] Người dùng có thể block người khác. Sau khi block, người dùng sẽ không nhận được tin nhắn từ người bị block gửi nữa. (**MSSV**)
 * [ ] Người dùng có thể xóa người dùng khác ra khỏi danh sách bạn. (**MSSV**)
 * [ ] Người dùng có thể unblock người dùng khác. (**MSSV**)
