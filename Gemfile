@@ -28,6 +28,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'bootstrap', '~> 4.0.0.beta2.1'
 gem 'jquery-rails'
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.2'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
