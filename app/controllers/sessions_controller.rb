@@ -9,6 +9,7 @@ class SessionsController < ApplicationController
     render :new
   else
     session[:success] = "login successfully!"
+    session[:user_id] = user.id
     redirect_to messages_path
   end
 end
