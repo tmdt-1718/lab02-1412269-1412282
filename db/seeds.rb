@@ -8,3 +8,9 @@
 User.delete_all
 User.create!(username: 'kiet', password: '123')
 User.create!(username: 'hoanglan', password: 'lan123')
+
+Conversation.delete_all
+Conversation.create!(sender_id: 2, recipient_id: 1)
+
+Message.delete_all
+Message.create!(body: 'Hi', user_id: 2, conversation_id: 1, read: false)
