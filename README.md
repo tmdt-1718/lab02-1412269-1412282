@@ -6,7 +6,7 @@ Thành viên:
 * [x] **1412269** Hà Mạnh Kiệt (1412269)
 * [x] **1412282** Nguyễn Hoàng Lân (1412282)
 
-URL: **URL hosting của bài tập**
+URL: **URL hosting của bài tập** https://lab02-1412269-1412282.herokuapp.com/
 
 ## Yêu cầu
 
