@@ -48,6 +48,12 @@ Link ảnh GIF demo ứng dụng:
 
 ![Video Walkthrough](demo.gif)
 
+#### Chức năng đăng nhập
+![Video Walkthrough](https://github.com/tmdt-1718/lab02-1412269-1412282/blob/master/LiceCap/Login.gif)
+
+#### Chức năng hiển thị tin nhắn đã nhận
+![Video Walkthrough](https://github.com/tmdt-1718/lab02-1412269-1412282/blob/master/LiceCap/ShowMessage.gif)
+
 Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
 
 
